@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Potenza
+comment1.params=inBase
+comment1.target=Potenza(int)
+comment2.params=
+comment2.target=int\ getBase()
+comment3.params=y
+comment3.target=void\ setBase(int)
+comment4.params=
+comment4.target=int\ getRisultato()
+comment5.params=
+comment5.target=void\ pow()
+numComments=6
